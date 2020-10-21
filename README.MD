@@ -25,7 +25,7 @@ Projeto da  [Next Level Week 2.0](https://nextlevelweek.com/).
 
 1.  Faça um clone do repositório:
 
--   git clone  [##](https://github.com/marianaccn/happy_nlw3.git)
+-   git clone  https://github.com/marianaccn/proffy_nlw2.git
 
 2.  Executando a aplicação
 
