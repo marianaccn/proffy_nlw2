@@ -32,3 +32,5 @@ Projeto da  [Next Level Week 2.0](https://nextlevelweek.com/).
 -   npm install
 -   npm run dev
 
+3. Abrir página em localhost:5500
+
