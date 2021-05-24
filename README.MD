@@ -8,7 +8,6 @@ Projeto da  [Next Level Week 2.0](https://nextlevelweek.com/).
 
 ## Tecnologias
 
--  React
 -  Node.js
 -  HTML
 -  CSS
